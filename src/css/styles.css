@@ -1476,6 +1476,11 @@ ul {
   gap: 19px;
 }
 
+.slider-btn-left:hover,
+.slider-btn-right:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
 /* #endregion Navigation */
 
 /* #endregion Testimonials block */
@@ -1523,4 +1528,5 @@ ul {
   font-size: 18px;
   color: var(--black);
 }
+
 /* #endregion Contact Us */
