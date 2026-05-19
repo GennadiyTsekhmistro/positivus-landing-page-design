@@ -1426,4 +1426,28 @@ ul {
   margin-left: 80px;
 }
 
+
+/* #region Navigation */
+
+.slider-btn {
+  width: 51px;
+  height: 51px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  border: 1px solid #fff;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.slider-btn img {
+  width: 100%;
+  height: 100%;
+}
+
+/* #endregion Navigation */
+
 /* #endregion Testimonials block */
